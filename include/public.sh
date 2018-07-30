@@ -801,7 +801,7 @@ last_confirm(){
 
     echo "Press any key to start...or Press Ctrl+C to cancel"
     echo
-    char=`get_char`
+    #char=`get_char`
 
     sync_time
 
